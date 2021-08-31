@@ -15,7 +15,6 @@
   "author": "Wes bos <wes@wesbos.com>",
   "license": "MIT",
   "peerDependencies": {
-    "babel-eslint": "^10.1.0",
     "eslint": "^4.19.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-align": "0.0.1",
@@ -29,11 +28,9 @@
     "eslint-plugin-standard": "^3.0.1",
     "eslint-plugin-unused-imports": "^1.1.0",
     "eslint-plugin-varspacing": "^1.2.2",
-    "eslint-plugin-vue": "^4.2.2",
-    "prettier": "^2.1.1"
+    "eslint-plugin-vue": "^4.2.2"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
     "eslint": "^4.19.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-align": "0.0.1",
@@ -47,8 +44,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "eslint-plugin-unused-imports": "^1.1.0",
     "eslint-plugin-varspacing": "^1.2.2",
-    "eslint-plugin-vue": "^4.2.2",
-    "prettier": "^2.1.1"
+    "eslint-plugin-vue": "^4.2.2"
   },
   "scripts": {
     "lint": "eslint .",
